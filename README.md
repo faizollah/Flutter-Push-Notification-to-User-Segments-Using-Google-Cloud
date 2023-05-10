@@ -1,16 +1,12 @@
-# topic_notification
+# Firebase Real-time Database for Flutter
 
-A new Flutter project.
+This repository is the code for setting up Flutter push notification for user segments using google cloud function service.
 
-## Getting Started
+## Video Tutorial
 
-This project is a starting point for a Flutter application.
+For detailed explanation, please feel free to watch the video.
 
-A few resources to get you started if this is your first Flutter project:
+[![Flutter Push Notifications with Google Cloud Functions](http://img.youtube.com/vi/-XSLZgWEAzE/0.jpg)](https://www.youtube.com/watch?v=-XSLZgWEAzE "Flutter Push Notifications with Google Cloud Functions")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### If this was helpful, please consider treating me a cup of coffee.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dknowledge)
