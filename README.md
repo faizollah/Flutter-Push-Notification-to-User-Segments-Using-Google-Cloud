@@ -1,4 +1,4 @@
-# Firebase Real-time Database for Flutter
+# Flutter Push Notifications with Google Cloud Functions
 
 This repository is the code for setting up Flutter push notification for user segments using google cloud function service.
 
